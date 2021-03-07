@@ -1,4 +1,4 @@
-# ML-in-Python-Course
+# ML-in-Python-Course at TU Berlin
 Introduction to Python and Python examples of machine learning algorithms with interactive Jupyter demos and math is applied.
 1) Python Basics
 2) Inheritance, NumPy, Performance, Plotting
